@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-
+//Realiza el enrutamiento de nuestro WEB API
 namespace Sumar.Controllers
 {
     [ApiController]
